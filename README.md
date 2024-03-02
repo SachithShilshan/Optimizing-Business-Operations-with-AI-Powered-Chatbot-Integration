@@ -15,11 +15,11 @@ Welcome to our project! This project involves the development of a chatbot lever
 
 
 
-https://github.com/SachithShilshan/Optimizing-Business-Operations-with-AI-Powered-Chatbot-Integration/assets/91172509/e3e93b55-c010-4aec-b6ff-639d1692d243
+https://github.com/SachithShilshan/Optimizing-Business-Operations-with-AI-Powered-Chatbot-Integration/assets/91172509/8bf5ea5f-7027-437a-82e9-8280461b9ae7
 
 
 
-https://github.com/SachithShilshan/Optimizing-Business-Operations-with-AI-Powered-Chatbot-Integration/assets/91172509/68300fb2-cf06-4bb5-b90d-75d56f4de1be
+https://github.com/SachithShilshan/Optimizing-Business-Operations-with-AI-Powered-Chatbot-Integration/assets/91172509/eda0fa4f-d926-434c-a36a-777434265f81
 
 
 
